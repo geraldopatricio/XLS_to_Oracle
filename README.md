@@ -4,11 +4,23 @@
 
 # SCRIPT PYTHON
 
-## rodar o projeto
+## Objetivo
 ```bash
-OBJETIVO: 
 Leia dados duas células em um arquivo do tipo XLS(Excel) e 
 alimente os dados em duas colunas de uma tabela no banco Oracle.
+
+Simples, básico e fácil!
+```
+
+## Requisitos
+```bash
+Instale o Python
+Instale o Pip
+Através do Pip instale o cx_Oracle eo xlrd
+exemplo: pip install xlrd
+
+Altere as linhas referente à conexão com o banco de dados 
+e cheque o caminho e nome do arquivo para leitura correta.
 
 Simples, básico e fácil!
 ```
