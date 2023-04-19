@@ -22,6 +22,9 @@ exemplo: pip install xlrd
 Altere as linhas referente à conexão com o banco de dados 
 e cheque o caminho e nome do arquivo para leitura correta.
 
+Feito isto execute:
+python main.py
+
 Simples, básico e fácil!
 ```
 
